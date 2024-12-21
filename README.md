@@ -91,5 +91,3 @@ This project is distributed under the MIT License. Refer to the [LICENSE](LICENS
 
 ---
 
-Feel free to customize the repository URL and other details as per your project specifics. Let me know if additional adjustments are needed!
-
